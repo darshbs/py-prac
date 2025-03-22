@@ -1,0 +1,1 @@
+This folder is of Python programs from HackerRank & LeetCode consisting of problem solving programs which are NOT DSA
